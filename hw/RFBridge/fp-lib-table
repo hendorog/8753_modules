@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name max2870)(type KiCad)(uri "$(KIPRJMOD)/max2870.pretty")(options "")(descr ""))
+  (lib (name VIA)(type KiCad)(uri "$(KIPRJMOD)/VIA.pretty")(options "")(descr ""))
+)
